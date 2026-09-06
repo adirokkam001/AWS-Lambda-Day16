@@ -1,4 +1,4 @@
-# Day 13 — AWS Lambda ⭐⭐⭐⭐
+# AWS Lambda 
 
 ## AWS Lambda
 
